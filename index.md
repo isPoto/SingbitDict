@@ -6,7 +6,7 @@ layout: default
 
 [声笔](https://sbxlm.gitee.io/about/)是一个高效、爽、给你独特句式连续感的顶功打字方案
 
-![Screenshot](https://github.com/isPoto/SingbitDict/blob/37929f521b7b90662916824b320706954198ebea/assets/Clipboard%20-%202023-11-22%2010.00.41.png)
+![Screenshot](assets/Clipboard - 2023-11-22 10.00.41.png)
 
 * * *
 
